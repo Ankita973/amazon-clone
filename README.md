@@ -4,7 +4,7 @@ A responsive clone of the Amazon homepage built using HTML, CSS, and JavaScript.
 
 🔗 View Project
 
-👉 [View on My Portfolio Website](file:///D:/New%20folder%20(2)/amazon.html)
+👉 [View on My Portfolio Website](https://github.com/Ankita973/amazon-clone)
 
 # 🚀 Features
 
