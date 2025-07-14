@@ -14,6 +14,6 @@ A responsive clone of the Amazon homepage built using HTML, CSS, and JavaScript.
 
 # 🛠 Tech Stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
